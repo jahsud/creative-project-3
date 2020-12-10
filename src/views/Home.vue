@@ -1,7 +1,7 @@
 <template>
   <div class="Home">
     <div class="banner">
-      <h1>Looking for some entertaiment on a Sunday?</h1>
+      <h1>Looking for some entertainment on a Sunday?</h1>
     </div>
     <div class="menu">
       <p>We have a great <router-link to="/music">Music</router-link> playlist and selected
